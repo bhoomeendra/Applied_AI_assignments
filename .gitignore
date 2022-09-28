@@ -4,3 +4,4 @@ resources.csv
 glove_vectors
 */.ipynb_checkpoints/*
 *.pkl
+*/data/*
